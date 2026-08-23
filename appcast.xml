@@ -3,12 +3,12 @@
   <channel>
     <title>Redfin</title>
     <item>
-      <title>Version 1.0</title>
-      <pubDate>Sun, 23 Aug 2026 20:53:32 +0000</pubDate>
-      <sparkle:version>0</sparkle:version>
-      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <title>Version 1.0.1</title>
+      <pubDate>Sun, 23 Aug 2026 21:14:00 +0000</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/kodydeda4/redfin/releases/download/v1.0.0/Redfin.zip" sparkle:edSignature="DoLdDy68n6kRHGSIXFU9j3+gWwcv95gRzLj8WhYxd38z6tWWnQpUBG2V5b3yvRnL8f18p3SBhFBk8gQCO0CoBg==" length="8439333" type="application/octet-stream"/>
+      <enclosure url="https://github.com/kodydeda4/redfin/releases/download/v1.0.1/Redfin.zip" sparkle:edSignature="VDnnt3fc9MYKAxEz3P1it8YTvM15UHstZ2pgICZIkUc3J+7PJbHU/7litA60jaeYJN4FzW+OuhtUWy2TB0wgCw==" length="8439388" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
