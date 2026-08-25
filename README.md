@@ -23,7 +23,7 @@ fast, feature-rich, and native. While there are many excellent Jellyfin
 apps available, they either don't focus on music playback, or don't have a 
 native UI. Redfin provides both.
 
-<img width="1808" height="1100" alt="image" src="https://github.com/user-attachments/assets/ef4ef05f-1b75-417c-8a92-b9ee8581cd0d" />
+https://github.com/user-attachments/assets/ea3eefa3-98e0-4d7c-9d39-7e77b6fe44a8
 
 ## Install
 
