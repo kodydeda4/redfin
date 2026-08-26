@@ -18,10 +18,8 @@
 
 ## About
 
-**Redfin** is a [Jellyfin](https://github.com/jellyfin/jellyfin) music player that differentiates itself by being
-fast, feature-rich, and native. While there are many excellent Jellyfin
-apps available, they either don't focus on music playback, or don't have a 
-native UI. Redfin provides both.
+**Redfin** is a [Jellyfin](https://github.com/jellyfin/jellyfin) client that differentiates itself by being
+native and specifically designed for music.
 
 https://github.com/user-attachments/assets/ea3eefa3-98e0-4d7c-9d39-7e77b6fe44a8
 
