@@ -29,3 +29,7 @@ Download the [latest release](https://github.com/kodydeda4/redfin/releases/lates
 ```
 brew install --cask kodydeda4/tap/redfin
 ```
+
+## Discord
+
+There is a [Discord Server](https://discord.gg/xnzC8VEcp2).
