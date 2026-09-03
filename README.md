@@ -33,3 +33,12 @@ brew install --cask kodydeda4/tap/redfin
 ## Discord
 
 There is a [Discord Server](https://discord.gg/xnzC8VEcp2).
+
+## iPhone
+
+The iPhone version is still in alpha.
+
+<img width="225" alt="IMG_4400" src="https://github.com/user-attachments/assets/4fd5e1f2-9962-407e-94a4-1515a6828f59" />
+<img width="225" alt="IMG_4402" src="https://github.com/user-attachments/assets/66da2e46-1b8c-4eef-ba0f-a9ae1ee7d801" />
+<img width="225" alt="IMG_4401" src="https://github.com/user-attachments/assets/3e8de5ff-5044-452d-bca0-9273b945362e" />
+<img width="225" alt="IMG_4403" src="https://github.com/user-attachments/assets/9f5b5ee7-6e5b-4589-857e-c80d8468191e" />
