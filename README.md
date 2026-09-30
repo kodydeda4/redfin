@@ -14,6 +14,8 @@
     <a href="https://kodydeda.vercel.app/redfin">Website</a>
     ·
     <a href="https://github.com/kodydeda4/redfin/releases">Releases</a>
+    ·
+    <a href="https://github.com/kodydeda4/redfin-prototypes">UI Prototypes</a>
 </p>
 
 ## About
